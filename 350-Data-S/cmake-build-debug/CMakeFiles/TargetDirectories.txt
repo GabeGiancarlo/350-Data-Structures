@@ -1,0 +1,3 @@
+/Users/gabegiancarlo/Desktop/350-Data-S/cmake-build-debug/CMakeFiles/350_Data_S.dir
+/Users/gabegiancarlo/Desktop/350-Data-S/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gabegiancarlo/Desktop/350-Data-S/cmake-build-debug/CMakeFiles/rebuild_cache.dir
